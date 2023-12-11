@@ -1,11 +1,7 @@
+How to set up and run a project. Clone the repository:
 
+git clone https://github.com/Sanzharova/todo Go to the file Open logIn.html in a web browser:
 
+Simply open the LogIn.html file in your preferred web browser.
 
-Как настроить и запустить проект. Клонируйте репозиторий:
-
-git clone https://github.com/Sanzharova/todo Перейдите в файл 
- Откройте logIn.html в веб-браузере:
-
-Просто откройте файл LogIn.html в предпочитаемом вами веб-браузере.
-
-а так же https://todo-psi-khaki-12.vercel.app/logIn.html для просмотра задеплоенной версии
+as well as https://todo-psi-khaki-12.vercel.app/logIn.html to view the deployed version
